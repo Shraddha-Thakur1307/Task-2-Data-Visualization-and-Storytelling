@@ -1,0 +1,21 @@
+# Superstore Analysis Power BI Dashboard
+
+This repository contains a Power BI dashboard analyzing the Sample Superstore dataset.
+
+## Features
+- Sales by Category, Ship Mode, and Segment
+- Category-wise Quantity Sold
+- Top 10 Profitable States
+- Profit Analysis and Average Discount
+- Region-wise Sales Performance
+
+## Dataset
+Sample Superstore dataset.
+
+## How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it in Power BI Desktop.
+
+## Dashboard Preview
+![Dashboard Screenshot]
+![Executive Summary]
